@@ -1,5 +1,22 @@
 # ButtCoin Version 2 FAQ (Constantly under construction)
 
+## VERSION QUESTIONS:
+### Why are there so many different BUTT coins on Etherscan ?
+
+There are two possibilities. One is that 0xBUTT has not created them. Other possibility is that you are looking at very old contracts that 0xBUTT team was test-launching and learning about the Ethereum network and Solidity. These are the old contracts that were generated, while any other contract (other than version 1 and 2) were not created by 0xBUTT:
+
+0x3324f4af7eE967bFA35A5AcCba7Df13e7C932397
+
+0xbF633d148a67B551bD643783d2dC3cEAEae31a62
+
+0x54CCf0c46D45b85A37f960cBe1ECAfAe5844252b
+
+ButtCoin is a concept that existed a few years before the 0xBUTT, so it is possible that people are creating the contracts without even knowing about 0xBUTT !
+
+### I can't get rid of the tokens since I am getting 1% from the next person's transactions. How do I get rid of it ?
+Make a new Ethereum account, send all tokens to that account, then send the minumum amount (0.0000001) to some third account. That way, you will get 0 tokens from the next transaction and you will get rid of the tokens.
+
+
 ## SNAPSHOT QUESTIONS:
 ### Where can I get my Version 2 tokens ?
 1. If you held less than 100, go to https://multisender.app/merkle?ipfs=QmR6X4D1Dod9pmUwCTrmudoobayoWV1nhuA3Bzg2fxF7BG
