@@ -13,6 +13,10 @@
 
 2. It was the opportunity to improve the token and make it the best mine-able and the self-destructing token on a market !
 
+### What was the bug about and how can I reproduce it ?
+Lets just say that if you had the right skills, you could produce as many tokens as you like. I won't tell you how... here is the proof!
+https://etherscan.io/tx/0x44931b20203b2c40224b676067a41333be3d3497f3dbbef0b6500add33ca8db8
+
 ## EXCHANGES QUESTIONS
 ### Where is it listed ?
 Currently, it is not listed anywhere. We are working on getting it listed on DDEX again. It will be on DDEX for a while.
