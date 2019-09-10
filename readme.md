@@ -39,7 +39,21 @@ No, and don't try, their addresses will be blacklisted and all of the tokens bur
 
 ### You mentioned multiple mining algorithms, how does that work ?
 
-1. Simply, using the power of Solidity, we can create another contract that makes a call to original contract. This means that we can mine the second contract and get the rewards using the first contract. This also means that we can have as many mining algorithms working together as we want. We can also mine to burn!
+Simply, using the power of Solidity, we can create another contract that makes a call to original contract. This means that we can mine the second contract and get the rewards using the first contract. This also means that we can have as many mining algorithms working together as we want. We can also mine to burn!
+
+## DESIGN QUESTIONS:
+### What is the blacklist and why is it necessary ?
+It is a security feature to prevent the scammers getting the unfair advantage from the token. Should any account become blacklisted, their tokens will burn as soon as they try to make a transaction.
+
+### What is the rootAccess list and why is it necessary ?
+This is to enable multiple contracts to "talk to each-other" and to give some privileges.
+
+### What is the whitelist ?
+Currently it doesn't have any value but it can be used in the future connecting the multiple contracts together.
+
+### What is the lock ?
+We can lock and unlock any function we want. If we had this feature with the version 1, there wouldn't be any need for the version 2. Also, we can override and lock the functions with other contracts. This is our solution to Ethereum's immutability!
+
 
 ## ROADMAP QUESTIONS:
 ### What is next for the ButtCoin ?
