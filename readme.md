@@ -57,4 +57,11 @@ We can lock and unlock any function we want. If we had this feature with the ver
 
 ## ROADMAP QUESTIONS:
 ### What is next for the ButtCoin ?
-
+- Update the BitCoinTalk
+- Update the WhitePaper
+- Update the Webpage
+- Request the DDEX re-listing
+- Do a collaboration with SHUFF token to for a self-drop distribution
+- Do a collaboration with Brapper token, so you can tip people the 0xBUTTs
+- Make the mining pools for distributing the minted tokens
+- Make the mining pools for mining the burned tokens
