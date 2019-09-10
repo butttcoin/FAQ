@@ -74,3 +74,8 @@ No
 
 ### Why ?
 Because the airdrop model does not work. It can do a lot of damage to a token.
+
+
+## BLOCKING ACCOUNTS
+### I was blocked on Twitter, Telegram, ... why ?
+If you think there was a mistake, please message us via e-mail and everything will be explained to you nicely.
