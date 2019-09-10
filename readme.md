@@ -17,6 +17,9 @@
 Lets just say that if you had the right skills, you could produce as many tokens as you like. I won't tell you how... here is the proof!
 https://etherscan.io/tx/0x44931b20203b2c40224b676067a41333be3d3497f3dbbef0b6500add33ca8db8
 
+### What can I do with the old version, and is it safe ?
+It is safe, the bug has been locked, and there is no guarantee that someone else will not be able to hack it. You can still trade it on a token.store https://token.store/eth/trade/0xBUTT
+
 ## EXCHANGES QUESTIONS
 ### Where is it listed ?
 Currently, it is not listed anywhere. We are working on getting it listed on DDEX again. It will be on DDEX for a while.
