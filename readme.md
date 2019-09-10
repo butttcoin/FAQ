@@ -67,3 +67,10 @@ We can lock and unlock any function we want. If we had this feature with the ver
 - Do a collaboration with Brapper token, so you can tip people the 0xBUTTs
 - Make the mining pools for distributing the minted tokens
 - Make the mining pools for mining the burned tokens
+
+## AIRDROP QUESTIONS
+### Will there be any airdops ?
+No
+
+### Why ?
+Because the airdrop model does not work. It can do a lot of damage to a token.
