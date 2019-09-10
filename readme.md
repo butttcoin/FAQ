@@ -5,11 +5,10 @@
 
 There are two possibilities. One is that 0xBUTT has not created them. Other possibility is that you are looking at very old contracts that 0xBUTT team was test-launching and learning about the Ethereum network and Solidity. These are the old contracts that were generated, while any other contract (other than version 1 and 2) were not created by 0xBUTT:
 
-0x3324f4af7eE967bFA35A5AcCba7Df13e7C932397
-
-0xbF633d148a67B551bD643783d2dC3cEAEae31a62
-
-0x54CCf0c46D45b85A37f960cBe1ECAfAe5844252b
+- 0x3324f4af7eE967bFA35A5AcCba7Df13e7C932397
+- 0xbF633d148a67B551bD643783d2dC3cEAEae31a62
+- 0x54CCf0c46D45b85A37f960cBe1ECAfAe5844252b
+- 0x972bd5c035ebba067489863158ec8556852bad42
 
 ButtCoin is a concept that existed a few years before the 0xBUTT, so it is possible that people are creating the contracts without even knowing about 0xBUTT !
 
