@@ -70,7 +70,7 @@ We can lock and unlock any function we want. If we had this feature with the ver
 
 ## AIRDROP QUESTIONS
 ### Will there be any airdops ?
-No
+No, HOWEVER, this is the last airdrop that will happen : reddit.com/r/0xBUTT/comments/cs31qe/buttcoin_fancy_airdrop_read_here/
 
 ### Why ?
 Because the airdrop model does not work. It can do a lot of damage to a token.
