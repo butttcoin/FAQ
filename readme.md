@@ -54,6 +54,10 @@ No, and don't try, their addresses will be blacklisted and all of the tokens bur
 ### Can I mine the token ?
 2. Yes, but please see the reward and include the 8 decimals. https://etherscan.io/token/0x5556d6a283fd18d71fd0c8b50d1211c5f842dbbc#readContract
 
+### I want to solo-mine, what should I do ?
+Take this tutorial for the version 1, and make sure that the contract address is 0x5556d6a283fD18d71FD0c8b50D1211C5F842dBBc
+https://github.com/butttcoin/tutorials/tree/master/mining/solo
+
 ### You mentioned multiple mining algorithms, how does that work ?
 
 Simply, using the power of Solidity, we can create another contract that makes a call to original contract. This means that we can mine the second contract and get the rewards using the first contract. This also means that we can have as many mining algorithms working together as we want. We can also mine to burn!
