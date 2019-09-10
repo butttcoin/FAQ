@@ -25,7 +25,7 @@ It is safe, the bug has been locked, and there is no guarantee that someone else
 Currently, it is not listed anywhere. We are working on getting it listed on DDEX again. It will be on DDEX for a while.
 
 ### How many exchanges are you planning and why ?
-For now, just DDEX. The reason is because more exchanges means lower trading volume per exchange. New exchanges are to be considered when safe to split the trading volume.
+For now, just DDEX (with BambooRelay and Uniswap). The reason is because more exchanges means lower trading volume per exchange. New exchanges are to be considered when safe to split the trading volume.
 
 ### Can I list the coin on other exchanges ?
 No, and don't try, their addresses will be blacklisted and all of the tokens burned.
