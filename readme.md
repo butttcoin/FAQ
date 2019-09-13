@@ -99,3 +99,21 @@ Because the airdrop model does not work. It can do a lot of damage to a token.
 ## BLOCKING ACCOUNTS
 ### I was blocked on Twitter, Telegram, ... why ?
 If you think there was a mistake, please message us via e-mail and everything will be explained to you nicely.
+
+
+## SOCIAL PAGES AND NETWORKS
+1. Bots
+
+ButtCoin is strongly against any bot activities and gaining the unfair advantages. Any bot activity will result in banning, immediately. This also includes advertisements and spammers.
+
+2. NSFW, violence and abuse
+
+ButtCoin takes no responsibility for any material posted. Any controversial posts that might be considered NSFW will not be deleted. Anything distasteful, hardcore, violence (toward animals and/or humans), gore,... will result in banning, immediately. This also includes the material wrapped up with a humour, which is actually act of aggression.
+
+3. Respect, or the lack of thereof...
+
+Any disrespectful posts will be removed, and if the behaviour continues, it will result in a banning. How do we define respect? It is very simple: as long as there is no complaint, it is considered respectful. ButtCoin has no right to consider any content disrespectful, unless reported by someone.
+
+4. Trolling
+
+This behaviour is expected to happen at any point. We will not ban any trolls, and they should have the freedom of expressing themselves, as long as it respects all other rules.
