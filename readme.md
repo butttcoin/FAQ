@@ -87,23 +87,26 @@ We can lock and unlock any function we want. If we had this feature with the ver
 
 ## ROADMAP QUESTIONS:
 ### What is next for the ButtCoin ?
-- Update the BitCoinTalk
-- Update the WhitePaper
-- Request the Etherscan to approve it
 - Update the Webpage
 - Request the DDEX re-listing
 - Redo all the steps as listed on a /r/0xBUTT Reddit page
-- Do a collaboration with SHUFF token to for a self-drop distribution
-- Do a collaboration with Brapper token, so you can tip people the 0xBUTTs
 - Make the mining pools for distributing the minted tokens
 - Make the mining pools for mining the burned tokens
 
 ## AIRDROP QUESTIONS
 ### Will there be any airdops ?
-No, HOWEVER, this is the last airdrop that will happen : reddit.com/r/0xBUTT/comments/cs31qe/buttcoin_fancy_airdrop_read_here/
+No, HOWEVER, this is the last airdrop that will happen :
+
+reddit.com/r/0xBUTT/comments/cs31qe/buttcoin_fancy_airdrop_read_here/
 
 ### Why ?
 Because the airdrop model does not work. It can do a lot of damage to a token.
+
+### I want some free 0xBUTT tokens and a passive income, how can I get it ?
+We have made a faucet that has passive income integrated in it.  Go to:
+
+https://github.com/butttcoin/ButtCoinV2/blob/master/source/selfdrop/readme.md
+
 
 
 ## BLOCKING ACCOUNTS
