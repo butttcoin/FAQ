@@ -131,3 +131,8 @@ Any disrespectful posts will be removed, and if the behaviour continues, it will
 4. Trolling
 
 This behaviour is expected to happen at any point. We will not ban any trolls, and they should have the freedom of expressing themselves, as long as it respects all other rules.
+
+
+## TOP SECRET !
+### I heard there is a top-secret project 0xBUTT is involved with, can you tell us more ?
+It is a revolutionary project that will change the way we look at the cryptocurrencies. We cannot say more than that, other than 0xBUTT will take their source-code at some point for the token-distribution.
