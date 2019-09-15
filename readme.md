@@ -138,4 +138,4 @@ This behaviour is expected to happen at any point. We will not ban any trolls, a
 
 ## TOP SECRET !
 ### I heard there is a top-secret project 0xBUTT is involved with, can you tell us more ?
-It is a revolutionary project that will change the way we look at the cryptocurrencies. We cannot say more than that, other than 0xBUTT will take their source-code at some point for the token-distribution.
+It is a revolutionary project that will change the way we look at the cryptocurrencies. We cannot say more than that, other than 0xBUTT will take their source-code at some point for the token-distribution, since 0xBUTT is working on it as part of a collaboration project.
