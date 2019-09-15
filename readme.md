@@ -1,6 +1,6 @@
 # ButtCoin Version 2 FAQ (Constantly under construction)
 
-For a white-paper and a source code, please go to: https://github.com/butttcoin/ButtCoinV2
+For a white-paper and a source code, please go to: https://github.com/butttcoin/ButtCoinV2/tree/master/source
 
 ## VERSION QUESTIONS:
 ### Why are there so many different BUTT coins on Etherscan ?
