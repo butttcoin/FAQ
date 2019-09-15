@@ -2,6 +2,14 @@
 
 For a white-paper and a source code, please go to: https://github.com/butttcoin/ButtCoinV2/tree/master/source
 
+
+## CONTACT US QUESTIONS:
+### How do I contact you ?
+- E-mail (info@0xbutt.com)
+- Twitter: https://twitter.com/0xbutt
+- Telegram: https://t.me/joinchat/Ote9nhdJeWXwXRW1st2JIg
+
+
 ## VERSION QUESTIONS:
 ### Why are there so many different BUTT coins on Etherscan ?
 
