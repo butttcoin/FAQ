@@ -48,7 +48,7 @@ It is safe, the bug has been locked, and there is no guarantee that someone else
 
 ## EXCHANGES QUESTIONS
 ### Where is it listed ?
-Currently, it is not listed anywhere. We are working on getting it listed on DDEX again. It will be on DDEX for a while.
+Currently, it is listed on DDEX https://ddex.io/trade/0xBUTT-WETH. Uniswap coming soon!
 
 ### How many exchanges are you planning and why ?
 For now, just DDEX (with BambooRelay and Uniswap). The reason is because more exchanges means lower trading volume per exchange. New exchanges are to be considered when safe to split the trading volume.
